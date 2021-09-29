@@ -74,7 +74,7 @@ node server.js
 - [Xproassassinn](https://github.com/Xproassassinn)
 
 # License 
-![GitHub](https://img.shields.io/github/license/Tacosheel/TacoProxyV2)
+![GitHub](https://img.shields.io/github/license/Tacosheel/TacoProxyV2?style=for-the-badge)
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
