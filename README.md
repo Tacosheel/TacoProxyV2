@@ -27,7 +27,7 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 - Arc.io Caching
 - Browser Cache
 
-##### PageSpeed rating of [100/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fbeta.tacosheel.dev%2F&tab=desktop) 
+##### TacoProxyV2 has a higher PageSpeed rating of [100/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fbeta.tacosheel.dev%2F&tab=desktop) compared to TacoProxy's 94/100.
 
 # Domains
 #### [beta.tacosheel.dev](https://beta.tacosheel.dev)
