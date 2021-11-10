@@ -3,11 +3,11 @@
 
 # Updates
 ```
-(Updated 9/28/21): TacoProxy V2 will not be updated. Subject to change at anytime.
+(Updated 10/10/21): Domain changed from beta.tacosheel.dev --> proxy.tacosheel.dev
 ```
 # Security
 ### VirusTotal:
-#### [beta.tacosheel.dev | 9/28/21](https://www.virustotal.com/gui/url/af2040df6606512662fb37fe02ff9a4914b0a384c19ed4cbc100613600785a5c/detection)
+#### [proxy.tacosheel.dev | 10/10/21](https://www.virustotal.com/gui/url/a0be55c705daaa5481d52e897327813e46847a73b372bb83f2e3e769e87f4c99)
 
 ### SSL/TLS:
 Taco Proxy is encrypted with the latest TLS 1.3
@@ -30,7 +30,7 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 ##### TacoProxyV2 has a higher PageSpeed rating of [99/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fbeta.tacosheel.dev%2F&tab=desktop) compared to TacoProxy's `94/100`
 
 # Domains
-#### [beta.tacosheel.dev](https://beta.tacosheel.dev)
+#### [proxy.tacosheel.dev](https://proxy.tacosheel.dev)
 
 # Deploy
 <a href="https://heroku.com/deploy?template=https://github.com/Tacosheel/TacoProxyV2" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://www.herokucdn.com/deploy/button.svg" width="140" height="30"><img></a>
