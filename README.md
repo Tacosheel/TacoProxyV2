@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 10/10/21): Domain changed from beta.tacosheel.dev --> proxy.tacosheel.dev
+(Updated 10/12/21): Testing Incognito and Corrosion, will update if it works.
 ```
 # Security
 ### VirusTotal:
