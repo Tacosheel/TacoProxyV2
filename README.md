@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 10/12/21): Testing Incognito and Corrosion, will update if it works.
+(Updated 12/15/21): Will test Corrosion and Incognito after finals, will update on 25th
 ```
 # Security
 ### VirusTotal:
