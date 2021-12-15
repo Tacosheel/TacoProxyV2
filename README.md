@@ -18,7 +18,7 @@ Since Heroku does not support SSL Certificates for free dynos, the next best alt
 CloudFare will attempt to obfuscate email addresses on Taco Proxy to prevent harvesting by bots and spammers
 
 # Speed
-There a lot of speed improvements since Aero Proxy, mainly including:
+There a lot of speed improvements since Taco Proxy, mainly including:
 
 - Brotli Compression
 - Rocket Loader
