@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 12/15/21): Will test Corrosion and Incognito after finals, will update on 25th
+(Updated 1/3/22): Removing/Faking site metadata to bypass certain systems, will also add extra domains soon.
 ```
 # Security
 ### VirusTotal:
@@ -84,4 +84,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-### Copyright (c) 2021 Tacosheel
+### Copyright (c) 2021-2022 Tacosheel
