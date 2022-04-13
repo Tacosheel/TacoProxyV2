@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 1/3/22): Removing/Faking site metadata to bypass certain systems, will also add extra domains soon.
+(Updated 4/13/22): Officialy archiving. My .dev domain has expired.
 ```
 # Security
 ### VirusTotal:
