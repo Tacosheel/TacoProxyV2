@@ -1,13 +1,12 @@
-# [TacoProxy V2](https://proxy.tacosheel.dev)
+# [TacoProxy V2](https://github.com/Tacosheel/TacoProxyV2)
 ### A node.js web proxy for use in combating web filters
 
 # Updates
 ```
-(Updated 4/13/22): Officialy archiving. My .dev domain has expired.
+(Updated 4/13/22): DO NOT RELY ON THIS TO "HIDE YOUR ACTIVITY". Due to lack of updates, most companies can now detect TacoProxy. I may work on it during the summer.
 ```
 # Security
 ### VirusTotal:
-#### [proxy.tacosheel.dev | 10/10/21](https://www.virustotal.com/gui/url/a0be55c705daaa5481d52e897327813e46847a73b372bb83f2e3e769e87f4c99)
 
 ### SSL/TLS:
 Taco Proxy is encrypted with the latest TLS 1.3
